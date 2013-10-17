@@ -8,7 +8,7 @@
 
 - git commit -m "first commit"
 
-- git remote add origin https://github.com/sunray97/test.git
+- git remote add origin 'https://github.com/sunray97/test.git'
 
 - git push -u origin master
 
