@@ -44,6 +44,6 @@ Please don't use any `<blink>` tags.
 
 ---
 
-![Alt text](http://a.disquscdn.com/uploads/users/2346/4525/avatar92.jpg?1381996199)
+![Alt text](http://blog.chinaunix.net/attachment/201302/26/16111523_1361870808Yccg.png)
 
 ---
