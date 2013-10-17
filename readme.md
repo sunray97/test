@@ -1,5 +1,5 @@
-##reate a new repository on the command line
-
+create a new repository on the command line
+==
 - touch README.md
 
 - git init
@@ -13,14 +13,16 @@
 - git push -u origin master
 
 - Push an existing repository from the command line
-##if you have a repository on the command line
-
+if you have a repository on the command line
+=
 - git remote add origin https://github.com/sunray97/test.git
 
 - git push -u origin master
 
-[x]  [ ] { } 
+[x]  [ ] { }D
 
 [ ]add
+======
+[]add
 
 
